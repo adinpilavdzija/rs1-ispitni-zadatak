@@ -1,0 +1,170 @@
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\appsettings.Development.json
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\appsettings.json
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\FIT_Api_Examples.staticwebassets.runtime.json
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\FIT_Api_Examples.exe
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\FIT_Api_Examples.deps.json
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\FIT_Api_Examples.runtimeconfig.json
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\FIT_Api_Examples.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\FIT_Api_Examples.pdb
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\AutoMapper.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Humanizer.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\IdentityModel.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\IdentityServer4.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\IdentityServer4.AspNetIdentity.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\IdentityServer4.EntityFramework.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\IdentityServer4.EntityFramework.Storage.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\IdentityServer4.Storage.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.csproj.AssemblyReference.cache
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.GeneratedMSBuildEditorConfig.editorconfig
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.AssemblyInfoInputs.cache
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.AssemblyInfo.cs
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.csproj.CoreCompileInputs.cache
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.MvcApplicationPartsAssemblyInfo.cs
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.MvcApplicationPartsAssemblyInfo.cache
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\staticwebassets\msbuild.FIT_Api_Examples.Microsoft.AspNetCore.StaticWebAssets.props
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\staticwebassets\msbuild.build.FIT_Api_Examples.props
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FIT_Api_Examples.props
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FIT_Api_Examples.props
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\staticwebassets.pack.json
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\staticwebassets.build.json
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\staticwebassets.development.json
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\scopedcss\bundle\FIT_Api_Examples.styles.css
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.csproj.CopyComplete
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\refint\FIT_Api_Examples.dll
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.pdb
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.genruntimeconfig.cache
+D:\rs1 ispit\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\ref\FIT_Api_Examples.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\appsettings.Development.json
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\appsettings.json
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\FIT_Api_Examples.staticwebassets.runtime.json
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\FIT_Api_Examples.exe
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\FIT_Api_Examples.deps.json
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\FIT_Api_Examples.runtimeconfig.json
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\FIT_Api_Examples.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\FIT_Api_Examples.pdb
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\AutoMapper.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Humanizer.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\IdentityModel.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\IdentityServer4.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\IdentityServer4.AspNetIdentity.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\IdentityServer4.EntityFramework.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\IdentityServer4.EntityFramework.Storage.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\IdentityServer4.Storage.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.csproj.AssemblyReference.cache
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.GeneratedMSBuildEditorConfig.editorconfig
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.AssemblyInfoInputs.cache
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.AssemblyInfo.cs
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.csproj.CoreCompileInputs.cache
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.MvcApplicationPartsAssemblyInfo.cs
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.MvcApplicationPartsAssemblyInfo.cache
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\staticwebassets\msbuild.FIT_Api_Examples.Microsoft.AspNetCore.StaticWebAssets.props
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\staticwebassets\msbuild.build.FIT_Api_Examples.props
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FIT_Api_Examples.props
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FIT_Api_Examples.props
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\staticwebassets.pack.json
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\staticwebassets.build.json
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\staticwebassets.development.json
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\scopedcss\bundle\FIT_Api_Examples.styles.css
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.csproj.CopyComplete
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\refint\FIT_Api_Examples.dll
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.pdb
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.genruntimeconfig.cache
+D:\rs1 ispit RIJESIT\20230327_2\webapi\FIT_Api_Examples\obj\Debug\net6.0\ref\FIT_Api_Examples.dll
